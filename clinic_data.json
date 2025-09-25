@@ -1,0 +1,92 @@
+{
+  "patients": [
+    {
+      "patient_id": "P001",
+      "name": "John Smith",
+      "age": 35,
+      "phone_number": "+1-555-0101",
+      "email": "john.smith@email.com",
+      "address": "123 Main St, Anytown, ST 12345",
+      "medical_history": "Hypertension, controlled with medication",
+      "created_at": "2025-09-25T23:00:14.089737",
+      "updated_at": "2025-09-25T23:00:14.089740"
+    },
+    {
+      "patient_id": "P002",
+      "name": "Sarah Johnson",
+      "age": 28,
+      "phone_number": "+1-555-0102",
+      "email": "sarah.johnson@email.com",
+      "address": "456 Oak Ave, Somewhere, ST 67890",
+      "medical_history": "Diabetes Type 2, regular monitoring required",
+      "created_at": "2025-09-25T23:00:14.089871",
+      "updated_at": "2025-09-25T23:00:14.089873"
+    },
+    {
+      "patient_id": "P003",
+      "name": "Michael Brown",
+      "age": 42,
+      "phone_number": "+1-555-0103",
+      "email": "michael.brown@email.com",
+      "address": "789 Pine Rd, Elsewhere, ST 54321",
+      "medical_history": "Asthma, uses inhaler as needed",
+      "created_at": "2025-09-25T23:00:14.090059",
+      "updated_at": "2025-09-25T23:00:14.090061"
+    },
+    {
+      "patient_id": "P004",
+      "name": "Emily Davis",
+      "age": 67,
+      "phone_number": "+1-555-0104",
+      "email": "emily.davis@email.com",
+      "address": "321 Elm St, Nowhere, ST 98765",
+      "medical_history": "Arthritis, heart disease family history",
+      "created_at": "2025-09-25T23:00:14.090387",
+      "updated_at": "2025-09-25T23:00:14.090388"
+    },
+    {
+      "patient_id": "P005",
+      "name": "David Wilson",
+      "age": 23,
+      "phone_number": "+1-555-0105",
+      "email": "david.wilson@email.com",
+      "address": "654 Maple Dr, Anywhere, ST 13579",
+      "medical_history": "No significant medical history",
+      "created_at": "2025-09-25T23:00:14.090657",
+      "updated_at": "2025-09-25T23:00:14.090658"
+    },
+    {
+      "patient_id": "P006",
+      "name": "Lisa Anderson",
+      "age": 51,
+      "phone_number": "+1-555-0106",
+      "email": "lisa.anderson@email.com",
+      "address": "987 Cedar Ln, Someplace, ST 24680",
+      "medical_history": "Allergies to penicillin, seasonal allergies",
+      "created_at": "2025-09-25T23:00:14.090972",
+      "updated_at": "2025-09-25T23:00:14.090973"
+    },
+    {
+      "patient_id": "P007",
+      "name": "Robert Taylor",
+      "age": 39,
+      "phone_number": "+1-555-0107",
+      "email": null,
+      "address": "147 Birch Ct, Everytown, ST 36912",
+      "medical_history": "High cholesterol, exercise regularly",
+      "created_at": "2025-09-25T23:00:14.091226",
+      "updated_at": "2025-09-25T23:00:14.091227"
+    },
+    {
+      "patient_id": "P008",
+      "name": "Jennifer Martinez",
+      "age": 45,
+      "phone_number": "+1-555-0108",
+      "email": "jennifer.martinez@email.com",
+      "address": "258 Spruce St, Hometown, ST 47823",
+      "medical_history": "Migraine headaches, stress management",
+      "created_at": "2025-09-25T23:00:14.091707",
+      "updated_at": "2025-09-25T23:00:14.091708"
+    }
+  ]
+}
