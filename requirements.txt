@@ -1,0 +1,8 @@
+# No external dependencies required
+# This clinic data management system uses only Python standard library modules:
+# - json (for data persistence)
+# - datetime (for timestamps)
+# - os (for file operations)
+# - typing (for type hints)
+# - unittest (for testing)
+# - tempfile (for testing)
